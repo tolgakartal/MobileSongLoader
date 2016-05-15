@@ -1,0 +1,2 @@
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader.Windows\MobileSongLoader.Windows.csproj;neutral
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\MobileSongLoader.csproj;neutral

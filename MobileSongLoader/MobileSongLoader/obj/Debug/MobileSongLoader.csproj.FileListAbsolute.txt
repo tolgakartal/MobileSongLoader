@@ -1,0 +1,10 @@
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\MobileSongLoader.dll
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\MobileSongLoader.pdb
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\Xamarin.Forms.Core.dll
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\Xamarin.Forms.Core.xml
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\obj\Debug\MobileSongLoader.csprojResolveAssemblyReference.cache
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\obj\Debug\MobileSongLoader.dll
+F:\Code\Xamarin\MobileSongLoader\MobileSongLoader\MobileSongLoader\obj\Debug\MobileSongLoader.pdb
